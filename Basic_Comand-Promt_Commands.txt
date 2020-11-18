@@ -1,0 +1,20 @@
+1. cd - Change Diractory...
+   (Example: cd C:/)
+
+2. color ... - Change terminal color 
+   (Example: Color 0a {makes screen black and text green})
+
+3. cls - Clears The Terminal
+   (Example: cls {and then the terminal should clear})
+
+4. pip - Lists The Pip Commands
+   (Example: pip {List pops up})
+
+5. pip install packageNameHere - Installs a package for python
+   (Example: pip install time {It starts installing the time package}
+
+6. python - Lauches a python console
+   (Example: python {Python console opens}
+
+7. python PutFileNameHere - Runs The Python Script
+   (Example: python C:/Users/Jaydey/test.py {python script should run}
