@@ -1,0 +1,6 @@
+- discord
+- pygame
+- pyttsx3
+- SpeechRecognition
+- PyAudio 
+- webbrowser
